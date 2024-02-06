@@ -1,3 +1,5 @@
+package model.exception;
+
 public class DbIntegrityException extends RuntimeException{
 
     public DbIntegrityException(String message) {

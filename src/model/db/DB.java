@@ -1,3 +1,7 @@
+package model.db;
+
+import model.exception.DbException;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.sql.*;
