@@ -51,5 +51,4 @@ public class Department implements Serializable {
                 "id = " + id +
                 ", name = '" + name ;
     }
-
 }
